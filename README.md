@@ -1,9 +1,8 @@
 Erlang Enhancement Process
 --------------------------
 
-This repository contains in the subdirectory eeps/ the EEPs (Erlang
-Extension Proposals), in [Markdown][MD] (`*.md`) format produced in the
-[Erlang Enhancement Process][EEP].
+This repository contains EEPs (Erlang Extension Proposals) in the subdirectory `eeps/`.
+The EEPs are in [Markdown][MD] (`*.md`) format according to this [EEP-template][Template].
 
 The [EEP Index][EEP 0] in [EEP 0][] gathers all EEPs and is built with
 the tools in the following paragraphs from the EEPs themselves.
@@ -37,6 +36,9 @@ Patch suggestions to this repository should be sent to <eeps@erlang.org>
 
 [EEP 0]: http://erlang.org/eep/eeps/eep-0000.html
     "EEP 0: Index of EEPS"
+
+[Template]: eeps/eep-0033.md
+    "EEP template"
 
 
 Copyright
